@@ -24,10 +24,10 @@ h3 {
 }
 
 nav {
-    font-size: 1.3em;
-    font-family: Libre+Baskerville;
     display: flex;
     flex-direction: column;
+    font-size: 1.3em;
+    font-family: Libre Baskerville;
 }
 
 nav a {
@@ -55,6 +55,8 @@ nav div {
 
 body {
     background-color: #EDFFEC;
+    font-family: dongle;
+    font-size: 25px;
 }
 
 footer {
